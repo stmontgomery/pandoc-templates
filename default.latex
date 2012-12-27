@@ -134,10 +134,6 @@ $endif$
 \date{$date$}
 
 \begin{document}
-$if(title)$
-\maketitle
-$endif$
-
 $for(include-before)$
 $include-before$
 
